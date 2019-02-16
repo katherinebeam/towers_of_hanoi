@@ -1,0 +1,21 @@
+
+
+
+
+
+ArrayStack
+ERROR:pop on non-empty stack threw java.lang.ArrayIndexOutOfBoundsException: -1
+ERROR:pop returned 23 instead of 56
+
+
+
+
+LinkedStack
+
+
+
+
+ListStack
+
+
+SCORE: 20/30
